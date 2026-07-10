@@ -1,0 +1,26 @@
+selenium
+beautifulsoup4
+requests
+openai
+langchain
+langchain-community
+python-dotenv
+fastapi
+uvicorn
+pinecone
+tavily-python
+lancedb
+pypdf
+python-docx
+lxml
+langchain-openai
+python-multipart
+playwright
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+schedule
+apscheduler
+bcrypt==4.0.1
+# playwright install chromium
+msal
